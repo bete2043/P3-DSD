@@ -1,0 +1,3 @@
+grant codeBase "file:/home/jaime/Escritorio/3AÑO/2cuatri/DSD/P3-DSD/Ejemplo3/" {
+    permission java.security.AllPermission;
+};
