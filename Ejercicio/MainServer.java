@@ -12,7 +12,7 @@ public class MainServer {
             Naming.rebind("Replica1", replica1);
             Naming.rebind("Replica2", replica2);
 
-            System.out.println("Server replicas are running...");
+            System.out.println("Servidores Replicas lanzados...");
         } catch (Exception e) {
             e.printStackTrace();
         }
